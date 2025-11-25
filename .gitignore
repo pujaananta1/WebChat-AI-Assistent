@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+coverage/
+npm-debug.log
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
